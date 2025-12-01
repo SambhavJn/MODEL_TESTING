@@ -14,3 +14,4 @@
 6. create requirements.txt with a -e . -> this is will create model_testing.egg-info folder and will have all the information about the installation
 7. create src folder in main folder
     > create __init__.py file 
+8. create the folder according to the projects and then push to git as we are doing above
